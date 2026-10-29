@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage    = 'http://github.com/adacosta/mongoid_rails_migrations'
   spec.license     = 'MIT'
 
-  spec.files         = Dir['README.rdoc', 'mongoid_rails_migrations.gemspec', 'lib/**/*']
+  spec.files         = Dir['README.rdoc', 'LICENSE', 'mongoid_rails_migrations.gemspec', 'lib/**/*']
   spec.require_paths = ['lib']
 
   rails_version = '>= 4.2.0'
